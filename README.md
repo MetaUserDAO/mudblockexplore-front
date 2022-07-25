@@ -6,7 +6,7 @@ This is a repo of the front-end part of the project.
 
 MUD block explorer 是 MetaUserDAO 网络的第一个数据和统计浏览器。 它提供有关整体网络运营、治理细节、验证者等方面的信息。
 
-## How to run
+## How to run 如何运行
 
 Clone the repo and run `npm install` from the folder of the project to install all the necessary dependencies.
 
