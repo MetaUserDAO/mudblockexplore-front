@@ -1,5 +1,5 @@
 
-# MetaUserDAO block explorer (front-end) Meta User DAO 浏览器前端
+# MetaUserDAO block explorer (front-end) Meta User DAO 区块浏览器前端
 
 MetaUserDAO MUD block explorer is the first data and statistics explorer for the Cosmos network. It provides information oт the overall network operations, governance details, validators and much more. 
 This is a repo of the front-end part of the project.
