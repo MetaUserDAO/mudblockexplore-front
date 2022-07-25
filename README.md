@@ -1,9 +1,10 @@
 
-# Cosmoscan (front-end)
+# MetaUserDAO block explorer (front-end) Meta User DAO 浏览器前端
 
-Cosmoscan is the first data and statistics explorer for the Cosmos network. It provides information oт the overall network operations, governance details, validators and much more. This is still an MVP, so if you have any suggestions, please reach out.
-
+MetaUserDAO MUD block explorer is the first data and statistics explorer for the Cosmos network. It provides information oт the overall network operations, governance details, validators and much more. 
 This is a repo of the front-end part of the project.
+
+MUD block explorer 是 MetaUserDAO 网络的第一个数据和统计浏览器。 它提供有关整体网络运营、治理细节、验证者等方面的信息。
 
 ## How to run
 
